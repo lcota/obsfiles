@@ -1,0 +1,356 @@
+{
+  "main": {
+    "id": "0954b56150cfa204",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d7a3291c5b655ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3ce6e3cf178b9dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 System/templates/Platform.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Platform"
+            }
+          },
+          {
+            "id": "4555ec04f409881f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Platforms/Zeus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zeus"
+            }
+          },
+          {
+            "id": "61c8895301525db8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Platforms/LeadFollow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LeadFollow"
+            }
+          },
+          {
+            "id": "4967eea432792394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Platforms/Iron.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iron"
+            }
+          },
+          {
+            "id": "53125f96dd7907bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Platforms/BondRFQ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BondRFQ"
+            }
+          },
+          {
+            "id": "852a599a8cc3ecec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Platforms/RTGen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RTGen"
+            }
+          },
+          {
+            "id": "23e24328f94f465e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Platforms/Credit Suite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Suite"
+            }
+          },
+          {
+            "id": "a646f809470ffad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 Desks/US Credit Trading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "US Credit Trading"
+            }
+          },
+          {
+            "id": "d59f759b2a6977fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Projects/SPP Credit Trading Modernization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SPP Credit Trading Modernization"
+            }
+          },
+          {
+            "id": "f8c2081bcb3c3388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Platforms/Mercury.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mercury"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6c0d2a981ad182c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6490016d3a67dec6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a84159a554160d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0857afa97a7f5baa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e688302725f26a18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18ca2e60e68b882b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d55b63ed040d8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbdac2844f6e6b91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100 System/templates/Platform.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2671db9d7c0bcfde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "100 System/templates/Platform.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "83a5d3611f999ac7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf1f8d25f69bcb74",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3a9436234fc0648a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100 System/templates/Platform.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "active": "5a84159a554160d7",
+  "lastOpenFiles": [
+    "06 Communications/Stakeholder Updates",
+    "06 Communications",
+    "60 Meetings/CME Credit Futures Overview.md",
+    "60 Meetings/MatrixPricer AutoQuote and AutoRemarking.md",
+    "60 Meetings/Uzo Introduction.md",
+    "85 Workbench/40 Initiatives/First 90 Days - Stakeholder Discovery.md",
+    "60 Meetings/Archive",
+    "60 Meetings/FIC Townhall.md",
+    "60 Meetings/Systematic Activity Weekly Follow up.md",
+    "40 Platforms/X-One (Cross One).md",
+    "40 Platforms/XOne (Cross One).md",
+    "60 Meetings/Systematic Trading Follow up.md",
+    "60 Meetings/Systematic Activity Weekly.md",
+    "50 Projects/Pricing Industrialization.md",
+    "60 Meetings/DCS Trading - Bi Monthly X-One OpCo.md",
+    "40 Platforms/Cross One (X-One).md",
+    "40 Platforms/CrossOne (X-One).md",
+    "60 Meetings/DCS Trading - Bi-monthly CrossOne OpCo.md",
+    "60 Meetings/SPP GLBA Monthly PRE OpCo.md",
+    "60 Meetings/Monthly PRE OpCo.md",
+    "50 Projects/SPP Credit Trading Modernization.md",
+    "40 Platforms/Mercury.md",
+    "40 Platforms/C.md",
+    "30 Desks/US Credit Trading.md",
+    "40 Platforms/Credit Suite.md",
+    "40 Platforms/RTGen.md",
+    "40 Platforms/BondRFQ.md",
+    "40 Platforms/Iron.md",
+    "100 System/templates",
+    "100 System/fileclasses",
+    "100 System/_templates",
+    "100 System",
+    "85 Workbench/60 Reference",
+    "85 Workbench/50 Strategy",
+    "85 Workbench/40 Initiatives",
+    "85 Workbench/30 Assessments"
+  ]
+}
