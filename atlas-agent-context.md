@@ -888,3 +888,4 @@ Atlas is successful when it helps answer:
 
 without requiring searches through historical meeting notes.
 
+That is the primary purpose of Atlas.
